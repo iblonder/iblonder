@@ -63,7 +63,7 @@
 > 🔥 **连续贡献统计**：显示连续提交天数、最长连续记录、总贡献天数
 
 <!-- GitHub 连续提交统计 -->
-<img src="https://streak-stats.demolab.com/?user=iblonder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=zh_Hans" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iblonder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -112,9 +112,12 @@ _🎮 自动生成的贪吃蛇会吃掉你的 GitHub 贡献！每天自动更新
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=iblonder&color=blueviolet&style=for-the-badge&label=访问量)
-![Followers](https://img.shields.io/github/followers/iblonder?label=关注者&style=for-the-badge&color=blue&logo=github)
-![Stars](https://img.shields.io/github/stars/iblonder?label=总星标数&style=for-the-badge&color=yellow&logo=github)
+<img src="https://komarev.com/ghpvc/?username=iblonder&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="访问量统计" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/iblonder?label=Followers&style=for-the-badge&color=blue&logo=github" alt="关注者" />
+<img src="https://img.shields.io/github/stars/iblonder?label=Stars&style=for-the-badge&color=yellow&logo=github" alt="总星标数" />
 
 </div>
 
