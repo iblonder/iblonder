@@ -39,14 +39,18 @@
 
 ## 📊 GitHub 统计 | GitHub Stats
 
+> 📈 **统计说明**：展示总提交数、获得的 Stars、创建的仓库数、PR 数量等 GitHub 活动数据
+
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iblonder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="GitHub Stats" />
+      <!-- 📊 总体统计：commits、stars、repos 等 -->
+      <img src="https://github-readme-stats.vercel.app/api?username=iblonder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td>
+      <!-- 💻 最常用的编程语言统计 -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblonder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" alt="Top Languages" />
     </td>
   </tr>
@@ -56,12 +60,16 @@
 
 <div align="center">
 
+> 🔥 **连续贡献统计**：显示连续提交天数、最长连续记录、总贡献天数
+
 <!-- GitHub 连续提交统计 -->
-<img src="https://streak-stats.demolab.com/?user=iblonder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=iblonder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=zh_Hans" alt="GitHub Streak Stats" />
 
 </div>
 
 <div align="center">
+
+> 📅 **贡献详情**：按时间展示的详细贡献统计
 
 <!-- GitHub 个人资料总览卡片 -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iblonder&theme=tokyonight" alt="Profile Summary" />
@@ -104,9 +112,9 @@ _🎮 自动生成的贪吃蛇会吃掉你的 GitHub 贡献！每天自动更新
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=iblonder&color=brightgreen&style=flat-square&label=访问量)
-![Followers](https://img.shields.io/github/followers/iblonder?label=关注者&style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/iblonder?label=获得的星标&style=flat-square&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=iblonder&color=blueviolet&style=for-the-badge&label=访问量)
+![Followers](https://img.shields.io/github/followers/iblonder?label=关注者&style=for-the-badge&color=blue&logo=github)
+![Stars](https://img.shields.io/github/stars/iblonder?label=总星标数&style=for-the-badge&color=yellow&logo=github)
 
 </div>
 
