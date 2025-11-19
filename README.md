@@ -1,82 +1,122 @@
+# 👋 Hi there, I'm iblonder!
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+iblonder+👋;Master's+Student+in+Image+Processing;Python+Developer+%7C+Computer+Vision" alt="Typing SVG" />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Master's+Student+in+Image+Processing;Python+Developer+%7C+Computer+Vision+Enthusiast;Exploring+Deep+Learning+%26+AI)
+
 </div>
 
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 Master's student specializing in **Image Processing**
-- 🔬 Research interests: Computer Vision, Deep Learning, Image Analysis
-- 💻 Primary programming language: **Python**
-- 🌱 Currently exploring advanced computer vision techniques
-- 📫 Feel free to reach out for collaboration on image processing projects!
+- 🎓 **硕士研究生** | 专业方向：**图像处理**
+- 🔬 研究兴趣：计算机视觉、深度学习、图像分析
+- 💻 主要使用：**Python**
+- 🌱 正在学习：先进的计算机视觉技术与深度学习算法
+- 🎯 目标：在 CV/AI 领域深耕，解决实际问题
+- 📫 欢迎交流：图像处理相关的项目和研究
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 技术栈 | Tech Stack
 
-### Languages & Tools
+### 核心技能
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 常用工具
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub 统计 | GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iblonder&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblonder&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="180"/>
+
+<!-- GitHub 统计卡片 -->
+<img src="https://github-readme-stats.vercel.app/api?username=iblonder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+
+<!-- 语言统计 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblonder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iblonder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!-- GitHub 连续提交统计 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iblonder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 贡献活动 | Contribution Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iblonder&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- GitHub 活动图 -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iblonder&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 贡献蛇 | Contribution Snake
 
+<div align="center">
+
+<!-- 贪吃蛇动画 - 将 GitHub 贡献图转换为动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iblonder/iblonder/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iblonder/iblonder/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iblonder/iblonder/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-## 👀 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iblonder&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## 🔥 最近活动 | Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 👀 访问统计 | Profile Views
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iblonder)
+![Profile Views](https://komarev.com/ghpvc/?username=iblonder&color=brightgreen&style=flat-square&label=访问量)
+![Followers](https://img.shields.io/github/followers/iblonder?label=关注者&style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/iblonder?label=获得的星标&style=flat-square&color=yellow)
+
+</div>
+
+---
+
+## 🤝 联系我 | Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iblonder)
+[![知乎](https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com)
+[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>💡 "In the world of image processing, every pixel tells a story."</i>
+
+### 💡 _"In the world of image processing, every pixel tells a story."_
+### 📷 _"在图像处理的世界里，每个像素都在讲述一个故事。"_
+
+**⭐️ 如果你喜欢我的项目，欢迎 Star 支持！**
+
 </div>
