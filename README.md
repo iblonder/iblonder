@@ -81,19 +81,11 @@
 
 <div align="center">
 
-<!-- SVG 版本的贪吃蛇动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iblonder/iblonder/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iblonder/iblonder/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iblonder/iblonder/output/github-snake.svg">
 </picture>
-
-<br/>
-
-<!-- GIF 版本的贪吃蛇动画 -->
-<img src="https://raw.githubusercontent.com/iblonder/iblonder/output/ocean.gif" alt="snake animation" />
-
-<br/>
 
 _🎮 自动生成的贪吃蛇会吃掉你的 GitHub 贡献！每天自动更新 ⚡_
 
