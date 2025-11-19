@@ -41,18 +41,30 @@
 
 <div align="center">
 
-<!-- GitHub 统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=iblonder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-
-<!-- 语言统计 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblonder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iblonder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblonder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <div align="center">
 
 <!-- GitHub 连续提交统计 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iblonder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=iblonder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+
+</div>
+
+<div align="center">
+
+<!-- GitHub 个人资料总览卡片 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iblonder&theme=tokyonight" alt="Profile Summary" />
 
 </div>
 
@@ -69,12 +81,21 @@
 
 <div align="center">
 
-<!-- 贪吃蛇动画 - 将 GitHub 贡献图转换为动画 -->
+<!-- SVG 版本的贪吃蛇动画 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iblonder/iblonder/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iblonder/iblonder/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iblonder/iblonder/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iblonder/iblonder/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iblonder/iblonder/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iblonder/iblonder/output/github-snake.svg">
 </picture>
+
+<br/>
+
+<!-- GIF 版本的贪吃蛇动画 -->
+<img src="https://raw.githubusercontent.com/iblonder/iblonder/output/ocean.gif" alt="snake animation" />
+
+<br/>
+
+_🎮 自动生成的贪吃蛇会吃掉你的 GitHub 贡献！每天自动更新 ⚡_
 
 </div>
 
@@ -103,7 +124,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:czp202408@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iblonder)
 [![知乎](https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com)
 [![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net)
