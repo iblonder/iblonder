@@ -164,6 +164,17 @@ _🎮 The snake eats your GitHub contributions! Auto-updated daily ⚡_
 
 ---
 
+## ⏱️ Weekly Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
 ## 👀 Profile Stats
 
 <div align="center">
