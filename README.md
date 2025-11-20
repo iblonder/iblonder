@@ -37,6 +37,54 @@
 
 ---
 
+## 📊 技能熟练度 | Skill Proficiency
+
+<div align="center">
+
+### 💻 编程语言
+![Python](https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-⭐⭐⭐-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-⭐⭐⭐⭐-orange?style=flat-square&logo=mathworks&logoColor=white)
+
+### 🤖 深度学习框架
+![PyTorch](https://img.shields.io/badge/PyTorch-⭐⭐⭐⭐-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-⭐⭐⭐-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-⭐⭐⭐-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### 🔬 计算机视觉
+![OpenCV](https://img.shields.io/badge/OpenCV-⭐⭐⭐⭐⭐-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Image Processing](https://img.shields.io/badge/Image_Processing-⭐⭐⭐⭐-green?style=flat-square)
+![Object Detection](https://img.shields.io/badge/Object_Detection-⭐⭐⭐⭐-blue?style=flat-square)
+
+</div>
+
+---
+
+## 🏷️ 研究方向 | Research Areas
+
+<div align="center">
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-计算机视觉-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-深度学习-red?style=for-the-badge)
+![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-图像分割-green?style=for-the-badge)
+![Object Detection](https://img.shields.io/badge/Object_Detection-目标检测-orange?style=for-the-badge)
+![Image Enhancement](https://img.shields.io/badge/Image_Enhancement-图像增强-purple?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-神经网络-pink?style=for-the-badge)
+
+</div>
+
+---
+
+## 🏆 GitHub 奖杯 | GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=iblonder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
 ## 📊 GitHub 统计 | GitHub Stats
 
 > 📈 **统计说明**：展示总提交数、获得的 Stars、创建的仓库数、PR 数量等 GitHub 活动数据
@@ -136,11 +184,25 @@ _🎮 自动生成的贪吃蛇会吃掉你的 GitHub 贡献！每天自动更新
 
 ---
 
+## 💬 每日技术名言 | Daily Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💡 _"In the world of image processing, every pixel tells a story."_
 ### 📷 _"在图像处理的世界里，每个像素都在讲述一个故事。"_
 
 **⭐️ 如果你喜欢我的项目，欢迎 Star 支持！**
+
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iblonder&repo=iblonder&theme=tokyonight&hide_border=true)](https://github.com/iblonder/iblonder)
 
 </div>
