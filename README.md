@@ -94,11 +94,11 @@
 <table>
   <tr>
     <td>
-      <!-- 📊 总体统计：commits、stars、repos 等 -->
+      <!-- 📊 Overall stats: commits, stars, repos, etc. -->
       <img src="https://github-readme-stats.vercel.app/api?username=iblonder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td>
-      <!-- 💻 最常用的编程语言统计 -->
+      <!-- 💻 Most used programming languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblonder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" alt="Top Languages" />
     </td>
   </tr>
@@ -110,7 +110,7 @@
 
 > 🔥 Contribution streak: Current streak, longest streak, and total contributions
 
-<!-- GitHub 连续提交统计 -->
+<!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=iblonder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 
 </div>
@@ -119,7 +119,7 @@
 
 > 📅 Detailed contribution timeline and activity breakdown
 
-<!-- GitHub 个人资料总览卡片 -->
+<!-- GitHub Profile Summary Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iblonder&theme=tokyonight" alt="Profile Summary" />
 
 </div>
@@ -128,7 +128,7 @@
 
 ## 📈 Contribution Activity
 
-<!-- GitHub 活动图 -->
+<!-- GitHub Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iblonder&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
@@ -207,7 +207,7 @@ _🎮 The snake eats your GitHub contributions! Auto-updated daily ⚡_
 ### 💡 _"In the world of image processing, every pixel tells a story."_
 ### 📷 _"在图像处理的世界里，每个像素都在讲述一个故事。"_
 
-**⭐️ 如果你喜欢我的项目，欢迎 Star 支持！**
+**⭐️ Star this repo if you like it! | 如果喜欢请给个 Star！**
 
 <br/>
 
