@@ -10,24 +10,24 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 **硕士研究生** | 专业方向：**图像处理**
-- 🔬 研究兴趣：计算机视觉、深度学习、图像分析
-- 💻 主要使用：**Python**
-- 🌱 正在学习：先进的计算机视觉技术与深度学习算法
-- 🎯 目标：在 CV/AI 领域深耕，解决实际问题
-- 📫 欢迎交流：图像处理相关的项目和研究
+- 🎓 **Master's Student** in **Image Processing** | 图像处理硕士研究生
+- 🔬 Research Focus: Computer Vision, Deep Learning, Image Analysis
+- 💻 Primary Language: **Python**
+- 🌱 Currently Learning: Advanced CV Techniques & Deep Learning Algorithms
+- 🎯 Goal: Deep dive into CV/AI field and solve real-world problems
+- 📫 Open to collaboration on image processing projects
 
 ---
 
-## 🛠️ 技术栈 | Tech Stack
+## 🛠️ Tech Stack
 
-### 核心技能
+### Core Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 常用工具
+### Tools & Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -37,21 +37,21 @@
 
 ---
 
-## 📊 技能熟练度 | Skill Proficiency
+## 📊 Skill Proficiency
 
 <div align="center">
 
-### 💻 编程语言
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-⭐⭐⭐-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-⭐⭐⭐⭐-orange?style=flat-square&logo=mathworks&logoColor=white)
 
-### 🤖 深度学习框架
+### 🤖 Deep Learning Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-⭐⭐⭐⭐-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-⭐⭐⭐-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-⭐⭐⭐-D00000?style=flat-square&logo=keras&logoColor=white)
 
-### 🔬 计算机视觉
+### 🔬 Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-⭐⭐⭐⭐⭐-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/Image_Processing-⭐⭐⭐⭐-green?style=flat-square)
 ![Object Detection](https://img.shields.io/badge/Object_Detection-⭐⭐⭐⭐-blue?style=flat-square)
@@ -60,22 +60,22 @@
 
 ---
 
-## 🏷️ 研究方向 | Research Areas
+## 🏷️ Research Areas
 
 <div align="center">
 
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-计算机视觉-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-深度学习-red?style=for-the-badge)
-![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-图像分割-green?style=for-the-badge)
-![Object Detection](https://img.shields.io/badge/Object_Detection-目标检测-orange?style=for-the-badge)
-![Image Enhancement](https://img.shields.io/badge/Image_Enhancement-图像增强-purple?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-神经网络-pink?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
+![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-green?style=for-the-badge)
+![Object Detection](https://img.shields.io/badge/Object_Detection-orange?style=for-the-badge)
+![Image Enhancement](https://img.shields.io/badge/Image_Enhancement-purple?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-pink?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🏆 GitHub 奖杯 | GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -85,20 +85,20 @@
 
 ---
 
-## 📊 GitHub 统计 | GitHub Stats
+## 📊 GitHub Stats
 
-> 📈 **统计说明**：展示总提交数、获得的 Stars、创建的仓库数、PR 数量等 GitHub 活动数据
+> 📈 Overview of commits, stars, repositories, PRs and other GitHub activities
 
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <!-- 📊 总体统计：commits、stars、repos 等 -->
+      <!-- 📊 Overall stats: commits, stars, repos, etc. -->
       <img src="https://github-readme-stats.vercel.app/api?username=iblonder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td>
-      <!-- 💻 最常用的编程语言统计 -->
+      <!-- 💻 Most used programming languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblonder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450" alt="Top Languages" />
     </td>
   </tr>
@@ -108,32 +108,32 @@
 
 <div align="center">
 
-> 🔥 **连续贡献统计**：显示连续提交天数、最长连续记录、总贡献天数
+> 🔥 Contribution streak: Current streak, longest streak, and total contributions
 
-<!-- GitHub 连续提交统计 -->
+<!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=iblonder&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 
 </div>
 
 <div align="center">
 
-> 📅 **贡献详情**：按时间展示的详细贡献统计
+> 📅 Detailed contribution timeline and activity breakdown
 
-<!-- GitHub 个人资料总览卡片 -->
+<!-- GitHub Profile Summary Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iblonder&theme=tokyonight" alt="Profile Summary" />
 
 </div>
 
 ---
 
-## 📈 贡献活动 | Contribution Activity
+## 📈 Contribution Activity
 
-<!-- GitHub 活动图 -->
+<!-- GitHub Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iblonder&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🐍 贡献蛇 | Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -143,13 +143,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iblonder/iblonder/output/github-snake.svg">
 </picture>
 
-_🎮 自动生成的贪吃蛇会吃掉你的 GitHub 贡献！每天自动更新 ⚡_
+_🎮 The snake eats your GitHub contributions! Auto-updated daily ⚡_
 
 </div>
 
 ---
 
-## 🔥 最近活动 | Recent Activity
+## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#8](undefined) in [iblonder/iblonder](https://github.com/iblonder/iblonder)
@@ -164,7 +164,7 @@ _🎮 自动生成的贪吃蛇会吃掉你的 GitHub 贡献！每天自动更新
 
 ---
 
-## 👀 访问统计 | Profile Views
+## 👀 Profile Stats
 
 <div align="center">
 
@@ -179,7 +179,7 @@ _🎮 自动生成的贪吃蛇会吃掉你的 GitHub 贡献！每天自动更新
 
 ---
 
-## 🤝 联系我 | Connect with Me
+## 🤝 Connect with Me
 
 <div align="center">
 
@@ -192,7 +192,7 @@ _🎮 自动生成的贪吃蛇会吃掉你的 GitHub 贡献！每天自动更新
 
 ---
 
-## 💬 每日技术名言 | Daily Dev Quote
+## 💬 Daily Dev Quote
 
 <div align="center">
 
@@ -207,7 +207,7 @@ _🎮 自动生成的贪吃蛇会吃掉你的 GitHub 贡献！每天自动更新
 ### 💡 _"In the world of image processing, every pixel tells a story."_
 ### 📷 _"在图像处理的世界里，每个像素都在讲述一个故事。"_
 
-**⭐️ 如果你喜欢我的项目，欢迎 Star 支持！**
+**⭐️ Star this repo if you like it! | 如果喜欢请给个 Star！**
 
 <br/>
 
